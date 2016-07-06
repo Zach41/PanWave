@@ -2,7 +2,7 @@
 
 ### 提要
 
-一个波浪的下拉效果。效果图如下：
+一个波浪的下拉效果。参照了[Elastic view animation using UIBezierPath](http://iostuts.io/2015/10/17/elastic-bounce-using-uibezierpath-and-pan-gesture/)效果图如下：
 
 ![preview](preview.gif)
 
